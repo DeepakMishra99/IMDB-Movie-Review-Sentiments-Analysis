@@ -1,5 +1,5 @@
 
-<h1 style="color: #1c2833; background-color: #FFBF00 ;text-align: center;font-weight: bold;">IMDb Movie Review Sentiment Analysis</h1>
+<h1>IMDb Movie Review Sentiment Analysis</h1>
 <p>
     This project performs sentiment analysis on IMDb movie reviews using a Simple Recurrent Neural Network (RNN). 
     The goal is to classify movie reviews as positive or negative based on the text content, achieving an impressive 90% accuracy.
